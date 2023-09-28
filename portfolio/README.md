@@ -8,7 +8,7 @@ id: litvis
 
 ## Email: mehnazhuq08@gmail.com
 
-The 'project' file contains the main code and markdown for the interactive data visualisation project. The rest are supplementary files, code and image resources.
+The 'project.md' file contains the main code and markdown for the interactive data visualisation project. The rest are supplementary files, code and image resources.
 
 To access the litvis dodument using Microsoft Visual Studio, please ensure the 'Markdown Preview Enhanced with litvis' extension is added to your VS code.
 
