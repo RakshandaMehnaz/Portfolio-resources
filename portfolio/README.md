@@ -2,18 +2,17 @@
 id: litvis
 ---
 
-@import "../lectures/css/datavis.less"
+# Data Visualization Portfolio
 
-![Data visualization](../images/bannerNoLabel.jpg)
+## Name: Raksanda Mehnaz Huq
 
-# IN3030 Data Visualization Portfolio
+## Email: mehnazhuq08@gmail.com
 
-_Important: Please Add you name and City email address below and stage/commit/push to your Github repo._
+The 'project' file contains the main code and markdown for the interactive data visualisation project. The rest are supplementary files, code and image resources.
 
-## Name: (replace with you name here)
+To access the litvis dodument using Microsoft Visual Studio, please ensure the 'Markdown Preview Enhanced with litvis' extension is added to your VS code.
 
-## City Email: (replace with your email here)
+For more information, you may check this link: https://marketplace.visualstudio.com/items?itemName=gicentre.markdown-preview-enhanced-with-litvis
 
 ---
 
-This is the place where you can place your weekly exercises and datavis project as you work on them during the term. You should regularly _stage_, _commit_ and _push_ your content here to GitHub to produce a continuous record of your work.
